@@ -6,8 +6,8 @@
 This project focuses on analyzing HR data using Power BI. The dashboard visualizes key HR metrics, including employee performance and attrition rate. The data was cleaned and transformed using Microsoft Power BI's Query Editor and Microsoft Excel before being used for visualization.
 
 <h2>Tools Used</h2>
-- **Data Cleaning & Preprocessing**: Power BI
-- **Visualization**: Microsoft Power BI
+- Data Cleaning & Preprocessing: Power BI<br>
+- Visualization: Microsoft Power BI
 
 <h2>Key Features</h2>
 - Performance tracking of employees
